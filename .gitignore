@@ -1,0 +1,10 @@
+# Logs
+
+node_modules
+dist
+dist-ssr
+.env
+
+
+# Editor directories and files
+
