@@ -3,11 +3,11 @@ import { FaWhatsapp } from "react-icons/fa";
 import { ThemeContext } from "../Context/ThemeContext";
 
 // ================= IMAGES =================
-import carMain from "../../assets/projects/car-main.png";
-import car1 from "../../assets/projects/car-1.png";
-import car2 from "../../assets/projects/car-2.png";
-import car3 from "../../assets/projects/car-3.png";
-import car4 from "../../assets/projects/car-4.png";
+// import carMain from "../../assets/Projects/car-main.png";
+// import car1 from "../../assets/Projects/car-1.png";
+// import car2 from "../../assets/projects/car-2.png";
+// import car3 from "../../assets/projects/car-3.png";
+// import car4 from "../../assets/projects/car-4.png";
 
 const Pro5 = () => {
   const { darkMode } = useContext(ThemeContext);
@@ -43,11 +43,11 @@ const Pro5 = () => {
           {/* ================= LEFT IMAGE ================= */}
           <div className="h-[300px] overflow-hidden">
 
-            <img
+            {/* <img
               src={carMain}
               alt="Tamakon Comprehensive School"
               className="w-[540px] h-full object-cover"
-            />
+            /> */}
 
           </div>
 
@@ -96,11 +96,11 @@ const Pro5 = () => {
                   duration-300
                 "
               >
-                <img
+                {/* <img
                   src={car1}
                   alt="Tamakon 1"
                   className="w-full h-full object-cover"
-                />
+                /> */}
               </div>
 
 
@@ -120,11 +120,11 @@ const Pro5 = () => {
                   duration-300
                 "
               >
-                <img
+                {/* <img
                   src={car2}
                   alt="Tamakon 2"
                   className="w-full h-full object-cover"
-                />
+                /> */}
               </div>
 
 
@@ -144,11 +144,11 @@ const Pro5 = () => {
                   duration-300
                 "
               >
-                <img
+                {/* <img
                   src={car3}
                   alt="Tamakon 3"
                   className="w-full h-full object-cover"
-                />
+                /> */}
               </div>
 
 
@@ -168,11 +168,11 @@ const Pro5 = () => {
                   duration-300
                 "
               >
-                <img
+                {/* <img
                   src={car4}
                   alt="Tamakon 4"
                   className="w-full h-full object-cover"
-                />
+                /> */}
               </div>
 
             </div>
