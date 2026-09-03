@@ -52,10 +52,10 @@ const App = () => {
   path="/projects"
   element={
     <>
-      <Pro1 />
-      <Pro2 />
-      <Pro3 />
-      <Pro4 />
+      {/* <Pro1 /> */}
+      {/* <Pro2 /> */}
+      {/* <Pro3 /> */}
+      {/* <Pro4 /> */}
       {/* <Pro5 /> */}
 
 
