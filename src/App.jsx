@@ -56,7 +56,7 @@ const App = () => {
       <Pro2 />
       <Pro3 />
       <Pro4 />
-      <Pro5 />
+      {/* <Pro5 /> */}
 
 
 
