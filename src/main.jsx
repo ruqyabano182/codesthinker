@@ -6,12 +6,12 @@ import "./index.css";
 import ThemeProvider from "./Components/Context/ThemeContext.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <React.StrictMode>
+  // <React.StrictMode>
       <ThemeProvider>
         <BrowserRouter>
           <App />
         </BrowserRouter>
       </ThemeProvider>
-  </React.StrictMode>
+  // </React.StrictMode>
 
 );
